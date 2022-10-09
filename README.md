@@ -1,2 +1,1 @@
 # gitBasic
-:snowman:
